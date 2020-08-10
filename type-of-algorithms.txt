@@ -1,3 +1,16 @@
+1. Recursive algorithms
+2. Dynamic programming algorithm
+3. Backtracking algorithm
+4. Divide and conquer algorithm
+5. Greedy algorithm
+6. Brute Force algorithm
+7. Randomized algorithm
+
+
+
+According to data structures -->
+
+
 1. Puzzles
 2. Graph Data Structure & Algorithms
 3. Greedy Algorithm
