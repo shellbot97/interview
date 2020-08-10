@@ -1,0 +1,18 @@
+1. Given
+2. Asked
+3. Approach
+  1. Naive
+  2. Optimised
+4. Solution
+  1. Declare variables with default value
+  2. Split functionality into multiple functions
+  3. Apply calculated loops
+5. Explain execution with example
+6. Complexity calculation
+  1. Optimised
+    1. Naive
+    2. Optimised
+  2. Space
+    1. Naive
+    2. Optimised
+  
